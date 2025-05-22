@@ -154,7 +154,7 @@ Explain the step-by-step approach taken to solve the problem.
 - Recommendation: _Suggest actions based on insights._  
 
 #### 2️⃣ Dashboard 2 Preview  
-👉🏻 Insert Power BI dashboard screenshots here
+👉🏻 ![My Image](https://drive.google.com/uc?export=view&id=1aARSjWNzVRgf0RG2RVcErjyLv2gkRD4C)
 
 📌 Analysis 2:   
 - Observation: _Describe trends, key metrics, and patterns._  
