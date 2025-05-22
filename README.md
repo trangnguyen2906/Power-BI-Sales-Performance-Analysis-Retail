@@ -147,7 +147,7 @@ Explain the step-by-step approach taken to solve the problem.
 ### 🔍 Dashboard Preview  
 
 #### 1️⃣ Dashboard 1 Preview  
-👉🏻 Insert Power BI dashboard screenshots here  
+👉🏻 ![Alt text](https://drive.google.com/uc?export=view&id=1VAcAvrnYTtBfqhurUoAn6Mk5MfXKs6Mz)
 
 📌 Analysis 1:  
 - Observation: _Describe trends, key metrics, and patterns._  
