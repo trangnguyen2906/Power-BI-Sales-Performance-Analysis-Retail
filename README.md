@@ -1,9 +1,4 @@
-# 📊 Project Title: Sales Performance Analysis  
-Author: [Your Name]  
-Date: YYYY-MM-DD  
-Tools Used: SQL/ Power BI/ Python  
-
----
+# 📊 Analyze Sales Performance on Superstore Dataset Using Power BI
 
 ## 📑 Table of Contents  
 1. [📌 Background & Overview](#-background--overview)  
