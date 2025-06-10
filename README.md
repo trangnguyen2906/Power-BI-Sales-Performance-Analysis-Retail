@@ -142,21 +142,23 @@ Explain the step-by-step approach taken to solve the problem.
 ### 🔍 Dashboard Preview  
 
 #### 1️⃣ Dashboard 1 Preview  
-👉🏻 ![My Image](https://drive.google.com/uc?export=view&id=1VAcAvrnYTtBfqhurUoAn6Mk5MfXKs6Mz)
+
+![Page 1](https://drive.google.com/uc?export=view&id=1AbCDEFgHIJKlmNOPqrS)
+
 
 📌 Analysis 1:  
 - Observation: _Describe trends, key metrics, and patterns._  
 - Recommendation: _Suggest actions based on insights._  
 
 #### 2️⃣ Dashboard 2 Preview  
-👉🏻 ![My Image](https://drive.google.com/uc?export=view&id=1aARSjWNzVRgf0RG2RVcErjyLv2gkRD4C)
+
 
 📌 Analysis 2:   
 - Observation: _Describe trends, key metrics, and patterns._  
 - Recommendation: _Suggest actions based on insights._  
 
 #### 3️⃣ Dashboard 3 Preview  
-👉🏻 ![My Image](https://drive.google.com/uc?export=view&id=1bw6D2oi5fSUBNR_hMtYFVRF4ZsGIs643)
+
 
 📌 Analysis 3:  
 - Observation: _Describe trends, key metrics, and patterns._  
