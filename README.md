@@ -143,7 +143,7 @@ Explain the step-by-step approach taken to solve the problem.
 
 #### 1️⃣ Dashboard 1 Preview  
 
-![Description](https://drive.google.com/uc?export=view&id=1AbCDEFgHIJKlmNOPqrS)
+![Image Description](https://drive.google.com/uc?export=view&id=1F2GZEVsQiCMnXISj0Hmhqtp12cfGaYLR)
 
 📌 Analysis 1:  
 - Observation: _Describe trends, key metrics, and patterns._  
