@@ -75,7 +75,7 @@ The dataset includes **3 tables**:
 #### 2️⃣ Table Schema & Data Snapshot  
 
 <details>
-<summary><strong>📦 Orders Table</strong></summary>
+<summary><strong>📦 Orders Table </strong></summary>
 
 _This table contains sales transactions and business metrics._
 
@@ -129,9 +129,8 @@ _Contains sales representative details per region._
 </details>
 
 #### 3️⃣ Data Relationships:  
-Describe the connections between tables—e.g., one-to-many, many-to-many.  
 
-👉🏻 Include a screenshot of Data Modeling to visualize relationships.  
+<img src="https://drive.google.com/thumbnail?id=1C5VlvfroFiQDeeaMUa9JrUfSzglpjMyk" width="600"/>
 
 ---
 
