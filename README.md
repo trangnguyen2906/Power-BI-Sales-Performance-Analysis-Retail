@@ -137,7 +137,7 @@ This project leveraged **Design Thinking process** to deeply explore stakeholder
 
 4️⃣ **Prototype and review:**
 
-I built the dashboard in Power BI and reviewed it to ensure it answers key stakeholder questions effectively. Then, I reviewed it through the lens of the stakeholder questions, such as “Which product is most profitable?” or “Which region should we expand into?”, and refined the visuals to ensure they deliver clear insights for strategic action.
+I built the dashboard in Power BI and reviewed it to ensure it answers key stakeholder questions effectively. Then, I reviewed it through the lens of the stakeholder questions and refined the visuals to ensure they deliver clear insights for strategic action.
 
 ---
 
