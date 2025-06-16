@@ -156,18 +156,27 @@ I built the dashboard in Power BI and reviewed it to ensure it answers key stake
 
 ## ⚒️ Main Process
 
-1️⃣ Data Cleaning & Preprocessing  
-2️⃣ Exploratory Data Analysis (EDA)  
-3️⃣ SQL/ Python Analysis 
+### 1️⃣ Data Preprocessing (Power Query + DAX)
+- Connected to Superstore source files (Orders, People, Returns) in Power BI.
+- Cleaned and transformed data using **Power Query Editor**:
+ + Used first row as headers, changed data types, and **removed/replaced invalid values.**
+ + **Merged tables** (e.g., Orders + Returns) to track return status per transaction.
+ + **Added custom columns** to flag returned orders and calculate profit margins.
+ + **Reordered and renamed columns** for consistency and ease of use.
+- Built a **relational data model** by creating relationships among the tables.
+- Created essential DAX measures and calculated columns for key metrics: `Total Profit`, `% Return`, `Sales Growth`, `AOV`,...
 
-- In each step, show your Code
 
-- Include query/ code execution screenshots or result samples
+### 2️⃣ Power BI Visualization
+Developed a multi-page interactive dashboard in Power BI with filters and KPIs, focusing on strategic decision-making.
 
-- Explain its purpose and its findings
+Each page answers specific stakeholder questions:
 
+- **Page 1 –** **Business Overview:** Financial health, sales trends, profit by segment.
 
-4️⃣ Power BI Visualization  (applicable for PBI Projects)
+- **Page 2 –** **Product & Market Insights:** Top/bottom products, profitable countries, product-level profit margin.
+
+- **Page 3 –** **Customer Patterns & Risks:** Return analysis, shipping behavior, customer segmentation.
 
 ---
 
