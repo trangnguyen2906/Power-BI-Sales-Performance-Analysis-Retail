@@ -186,7 +186,7 @@ Each page answers specific stakeholder questions:
 
 #### 1️⃣ Dashboard 1 Preview  
 
-![Image Description](https://drive.google.com/uc?export=view&id=1F2GZEVsQiCMnXISj0Hmhqtp12cfGaYLR)
+![Recommendation Page Screenshot](https://drive.google.com/uc?export=view&id=1k13RtY3qr17ArUSrcFbqjEhmn9aN6IZ4)
 
 📌 Analysis 1:  
 - Observation: _Describe trends, key metrics, and patterns._  
