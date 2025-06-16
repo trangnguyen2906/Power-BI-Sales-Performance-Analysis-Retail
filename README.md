@@ -131,6 +131,10 @@ This project leveraged **Design Thinking process** to deeply explore stakeholder
 
 1️⃣ **Empathize :** Understand the real needs and expectations of senior managers, especially the CSO, who are responsible for making strategic product and market expansion decisions.
 
+![Design Thinking Screenshot](https://drive.google.com/uc?export=view&id=1QmYiExV79vE1s7Z8mCcyhfRfj04Fmsbp)
+
+
+
 2️⃣ **Define point of view:** I defined the problem as the lack of a centralized, visual dashboard to track profit, return, and growth across regions and products.
 
 3️⃣ **Ideate:** I designed a 4-page dashboard structure that covers financial overview, product-market insights, customer behavior.
