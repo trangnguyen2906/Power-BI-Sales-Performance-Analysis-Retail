@@ -188,14 +188,12 @@ Each page answers specific stakeholder questions:
 ![Page 1](https://drive.google.com/uc?export=view&id=1QEGmvNWgRN2YPpMON9bDsYdLTvL-y6_L)
 
 ### 📌 Analysis 1:  
-To understand overall business health, I started with an executive-level view of key metrics including:
 
-💰 Total Profit: $1.5M 📦 Total Sales: $12.64M 🧾 Total Orders: 25.04K
-📈 % Profit: 11.61% 📦 % Return Rate: 5.95%
+To understand overall business health, I started with an executive-level view of key metrics including:  
+💰 **Total Profit:** $1.5M 📦 **Total Sales:** $12.64M 📄 **Total Orders:** 25.04K 📈 **% Profit:** 11.61% 📦 **% Return Rate:** 5.95%
 
-From the visualizations, I observed the following:
 
-📉 1. Profit & Sales Over Time
+#### 🔍 1. Sales Performance Is Strong, but Margins Are Modest  
 
 ### 2️⃣ Dashboard 2 Preview  
 
