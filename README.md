@@ -130,7 +130,7 @@ _Contains sales representative details per region._
 
 #### 3️⃣ Data Relationships:  
 
-<img src="https://drive.google.com/uc?export=view&id=1C5VlvfroFiQDeeaMUa9JrUfSzglpjMyk" width="600"/>
+<img src="https://drive.google.com/uc?export=view&id=1C5VlvfroFiQDeeaMUa9JrUfSzglpjMyk" width="700"/>
 
 ---
 
