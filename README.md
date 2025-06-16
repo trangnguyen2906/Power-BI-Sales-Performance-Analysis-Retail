@@ -189,6 +189,7 @@ Each page answers specific stakeholder questions:
 
 ### 📌 Analysis 1:  
 To understand overall business health, I started with an executive-level view of key metrics including:
+
 💰 Total Profit: $1.5M 📦 Total Sales: $12.64M 🧾 Total Orders: 25.04K
 📈 % Profit: 11.61% 📦 % Return Rate: 5.95%
 
