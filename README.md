@@ -181,25 +181,29 @@ Each page answers specific stakeholder questions:
 ---
 
 ## 📊 Key Insights & Visualizations  
+ 
 
-### 🔍 Dashboard Preview  
-
-#### 1️⃣ Dashboard 1 Preview  
+### 1️⃣ Page 1: Business Performance Overview - Preview  
 
 ![Page 1](https://drive.google.com/uc?export=view&id=1QEGmvNWgRN2YPpMON9bDsYdLTvL-y6_L)
 
-📌 Analysis 1:  
-- Observation: _Describe trends, key metrics, and patterns._  
-- Recommendation: _Suggest actions based on insights._  
+### 📌 Analysis 1:  
+To understand overall business health, I started with an executive-level view of key metrics including:
+💰 Total Profit: $1.5M 📦 Total Sales: $12.64M 🧾 Total Orders: 25.04K
+📈 % Profit: 11.61% 📦 % Return Rate: 5.95%
 
-#### 2️⃣ Dashboard 2 Preview  
+From the visualizations, I observed the following:
+
+📉 1. Profit & Sales Over Time
+
+### 2️⃣ Dashboard 2 Preview  
 
 
 📌 Analysis 2:   
 - Observation: _Describe trends, key metrics, and patterns._  
 - Recommendation: _Suggest actions based on insights._  
 
-#### 3️⃣ Dashboard 3 Preview  
+### 3️⃣ Dashboard 3 Preview  
 
 
 📌 Analysis 3:  
