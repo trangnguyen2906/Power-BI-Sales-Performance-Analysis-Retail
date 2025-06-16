@@ -133,11 +133,17 @@ This project leveraged **Design Thinking process** to deeply explore stakeholder
 
 ![Design Thinking Screenshot](https://drive.google.com/uc?export=view&id=1QmYiExV79vE1s7Z8mCcyhfRfj04Fmsbp)
 
+![Strategic Dashboard Screenshot](https://drive.google.com/uc?export=view&id=1duTmMTQU7rxtSOuCLKyvguwg2gBn3p8l)
 
 
 2️⃣ **Define point of view:** I defined the problem as the lack of a centralized, visual dashboard to track profit, return, and growth across regions and products.
 
+![Customer Pattern Screenshot](https://drive.google.com/uc?export=view&id=1ZVKmTq3dH-rEwqnC0cCuyva9m36ixw1r)
+
 3️⃣ **Ideate:** I designed a 4-page dashboard structure that covers financial overview, product-market insights, customer behavior.
+
+![Recommendations & Insights Screenshot](https://drive.google.com/uc?export=view&id=14xy-wXt4yCpPTSaYrxZPrNLZDwP4nZgv)
+
 
 4️⃣ **Prototype and review:**
 
