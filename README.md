@@ -22,14 +22,8 @@ This project analyzes global retail sales using the **Global Superstore** datase
 
 - Make data-informed decisions on **product prioritization and market expansion.**
 
-### 👥 Who is this project for?
-
-- Business stakeholders and senior managers  
-- Sales & marketing strategy teams  
-- Data analysts and business intelligence professionals  
-
-
 ### ❓ Business Questions
+
 This project helps answer key business questions, such as:
 
 - Which regions and markets are most/least profitable?
@@ -41,15 +35,12 @@ This project helps answer key business questions, such as:
 - What factors are contributing to high return rates?
 
 
+### 👥 Who is this project for?
 
-### 🎯 Project Outcome:
+- Business stakeholders and senior managers  
+- Sales & marketing strategy teams  
+- Data analysts and business intelligence professionals  
 
-Summarized below are key findings and patterns uncovered through analysis:
-
-
-✔️ Sales Trends: The top X% of products generate Y% of revenue.  
-✔️ Inventory Optimization: Certain products are frequently out-of-stock, causing revenue loss.  
-✔️ Customer Behavior: Returning customers spend Z% more per transaction than new customers.  
 
 ---
 
