@@ -201,7 +201,7 @@ Total **sales** reached **$12.64M**, but only **$1.5M in profit** was generated,
 - **✅ Recommendation:**
 Prioritize margin optimization by identifying high-volume but low-profit products. Review pricing strategies, reduce discount dependency, and streamline costs to protect profitability without sacrificing sales volume.
 
-### 🔍 2. Consistent Seasonal Trends with Q1 Always the Weakest
+### 🔍 2. Consistent Seasonal Trends
 - **💡 Observation:**
 Each year, **Q1 consistently shows the lowest sales and profit**, but performance **steadily improves through Q2–Q4**, with the highest **peak in Q4 2014 ($1.48M)**. Despite these seasonal dips, the overall trend in both sales and profit is **upward**, indicating healthy business momentum.
 
