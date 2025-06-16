@@ -11,7 +11,7 @@
 
 ## 📌 Background & Overview  
 
-### Objective:
+### 🎯 Objective:
 ### 📖 What is this project about? 
 
 This project analyzes global retail sales using the **Global Superstore** dataset and **Power BI**. It is designed to help senior managers:
