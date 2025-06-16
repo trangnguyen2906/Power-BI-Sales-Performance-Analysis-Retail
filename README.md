@@ -194,12 +194,21 @@ To understand overall business health, I started with an executive-level view of
 
 From the visualizations, I observed the following:
 
-#### 🔍 1. Sales Performance Is Strong, but Margins Are Modest  
+### 🔍 1. Sales Performance Is Strong, but Margins Are Modest  
 - **💡 Observation:**
 Total **sales** reached **$12.64M**, but only **$1.5M in profit** was generated, resulting in a **profit margin of 11.61%**. This shows that high sales volume does not directly translate into high profitability, possibly due to cost structure or product mix.
 
 - **✅ Recommendation:**
 Prioritize margin optimization by identifying high-volume but low-profit products. Review pricing strategies, reduce discount dependency, and streamline costs to protect profitability without sacrificing sales volume.
+
+### 🔍 2. Consistent Seasonal Trends with Q1 Always the Weakest
+- **💡 Observation:**
+Each year, **Q1 consistently shows the lowest sales and profit**, but performance **steadily improves through Q2–Q4**, with the highest **peak in Q4 2014 ($1.48M)**. Despite these seasonal dips, the overall trend in both sales and profit is **upward**, indicating healthy business momentum.
+
+- **✅ Recommendation:**
+Mitigate Q1 drops by launching retention-focused campaigns early in the year, offering loyalty incentives, and planning proactive inventory and pricing strategies ahead of Q3, Q4 to capture peak demand efficiently.
+
+### 🔍 3. Sub-Category Profitability Varies Widely
 
 
 ### 2️⃣ Dashboard 2 Preview  
