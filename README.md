@@ -129,23 +129,23 @@ _Contains sales representative details per region._
 
 This project leveraged **Design Thinking process** to deeply explore stakeholder needs and shape a focused dashboard that supports strategic decision-making.
 
-1️⃣ **Empathize :** Understand the real needs and expectations of senior managers, especially the CSO, who are responsible for making strategic product and market expansion decisions.
+### 1️⃣ **Empathize :** Understand the real needs and expectations of senior managers, especially the CSO, who are responsible for making strategic product and market expansion decisions.
 
 ![Design Thinking Screenshot](https://drive.google.com/uc?export=view&id=1QmYiExV79vE1s7Z8mCcyhfRfj04Fmsbp)
 
 ![Strategic Dashboard Screenshot](https://drive.google.com/uc?export=view&id=1duTmMTQU7rxtSOuCLKyvguwg2gBn3p8l)
 
 
-2️⃣ **Define point of view:** I defined the problem as the lack of a centralized, visual dashboard to track profit, return, and growth across regions and products.
+### 2️⃣ **Define point of view:** I defined the problem as the lack of a centralized, visual dashboard to track profit, return, and growth across regions and products.
 
 ![Customer Pattern Screenshot](https://drive.google.com/uc?export=view&id=1ZVKmTq3dH-rEwqnC0cCuyva9m36ixw1r)
 
-3️⃣ **Ideate:** I designed a 4-page dashboard structure that covers financial overview, product-market insights, customer behavior.
+### 3️⃣ **Ideate:** I designed a 4-page dashboard structure that covers financial overview, product-market insights, customer behavior.
 
 ![Recommendations & Insights Screenshot](https://drive.google.com/uc?export=view&id=14xy-wXt4yCpPTSaYrxZPrNLZDwP4nZgv)
 
 
-4️⃣ **Prototype and review:**
+### 4️⃣ **Prototype and review:**
 
 I built the dashboard in Power BI and reviewed it to ensure it answers key stakeholder questions effectively. Then, I reviewed it through the lens of the stakeholder questions and refined the visuals to ensure they deliver clear insights for strategic action.
 
