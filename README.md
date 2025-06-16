@@ -209,6 +209,30 @@ Each year, **Q1 consistently shows the lowest sales and profit**, but performanc
 Mitigate Q1 drops by launching retention-focused campaigns early in the year, offering loyalty incentives, and planning proactive inventory and pricing strategies ahead of Q3, Q4 to capture peak demand efficiently.
 
 ### 🔍 3. Sub-Category Profitability Varies Widely
+- **💡 Observation:**
+ + **Technology** is the top-performing category: 📠 **Copiers** and 📱 **Phones** show strong sales and high profits, while **Accessories** also perform well.
+ + **Office Supplies** has the **highest margin sub-category** — 📎 **Paper (24.24%)**, but most others (e.g., Binders, Envelopes) contribute low profit due to small sales.
+ + **Furniture** underperforms overall: 🪑 Tables have a **negative margin (-8.46%)**, and while 📚 **Bookcases** and **Chairs** generate decent sales, their margins **(11–12%) are below other categories.**
+
+- **✅ Recommendation:**
+  + Double down on Technology and Paper through bundling or cross-sell. 
+  + Investigate the viability of low-performing products like Tables and Envelopes, whether due to pricing, high returns, or low demand—and consider repositioning, redesigning, or phasing them out.
+
+### 🔍 4. Consumer Leads in Sales, but Home Office Delivers Highest Margin
+- **💡 Observation:**
+  + **Consumer segment** generates the **highest revenue** at $6.5M, but yields the lowest profit margin (11.51%).
+  
+  + Home Office is the smallest segment by sales ($2.3M) but delivers the **highest profit margin (11.99%)**.
+
+- **✅ Recommendation:**
+Reinforce engagement with Home Office customers through premium or recurring offerings. Explore ways to increase volume in this segment while protecting margins. Simultaneously, analyze costs and pricing in the Consumer segment to improve margin without sacrificing scale.
+
+### 🔍 5. APAC Leads in Sales, Followed by Europe, US, and LATAM
+- **💡 Observation:**
+**APAC** drives the highest sales volume, followed by **Europe**. The **US and LATAM** are close behind, while **Africa, EMEA (non-EU), and Canada** remain **low** in both presence and volume. As the chart reflects sales only, profitability must be evaluated using other visuals.
+  
+- **✅ Recommendation:**
+Sustain growth in APAC, Europe, and the US through focused operations and optimization. For emerging markets such as LATAM and Africa, refer to margin data from Page 2 to identify where lean expansion or pilot initiatives may yield strategic growth.
 
 
 ### 2️⃣ Dashboard 2 Preview  
