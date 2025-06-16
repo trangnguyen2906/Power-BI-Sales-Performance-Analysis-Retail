@@ -127,14 +127,15 @@ _Contains sales representative details per region._
 
 ## 🧠 Design Thinking Process  
 
-Explain the step-by-step approach taken to solve the problem.  
+1️⃣ Empathize : Understand the real needs and expectations of senior managers, especially the CSO, who are responsible for making strategic product and market expansion decisions.
 
-👉🏻 Insert a screenshot of the Design Thinking steps (Screenshot your Excel design thinking tables for better presentation).  
+2️⃣ Define point of view: I defined the problem as the lack of a centralized, visual dashboard to track profit, return, and growth across regions and products.
 
-1️⃣ Empathize  
-2️⃣ Define point of view  
-3️⃣ Ideate  
-4️⃣ Prototype and review  
+3️⃣ Ideate: I designed a 4-page dashboard structure that covers financial overview, product-market insights, customer behavior.
+
+4️⃣ Prototype and review
+
+I built the dashboard in Power BI and reviewed it to ensure it answers key stakeholder questions effectively. Then, I reviewed it through the lens of the stakeholder questions, such as “Which product is most profitable?” or “Which region should we expand into?”, and refined the visuals to ensure they deliver clear insights for strategic action.
 
 ---
 
