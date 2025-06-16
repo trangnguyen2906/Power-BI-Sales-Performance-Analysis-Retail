@@ -55,49 +55,78 @@ Summarized below are key findings and patterns uncovered through analysis:
 
 ## 📂 Dataset Description & Data Structure  
 
-### 📌 Data Source  
-- Source: (Mention where the dataset is obtained from—Kaggle, company database, government sources, etc.)  
-- Size: (Mention the number of rows & columns)  
-- Format: (.csv, .sql, .xlsx, etc.)  
+### 🔗 Data Source
 
+- **Source**: Global Superstore dataset
+- **Size**: ~51,920 rows
+- **Format**: `.csv` file
+  
 ### 📊 Data Structure & Relationships  
 
 #### 1️⃣ Tables Used:  
-Mention how many tables are in the dataset.  
+
+The dataset includes **3 tables**:
+
+1. **Orders** – Main transactional table (sales, profit, shipping, customer info)  
+2. **Returns** – Links to Orders to flag returned transactions  
+3. **People** – Sales representatives and their assigned regions  
+
 
 #### 2️⃣ Table Schema & Data Snapshot  
 
-Table 1: Products Table  
+<details>
+<summary><strong>📦 Orders Table</strong></summary>
 
-👉🏻 Insert a screenshot of table schema 
+_This table contains sales transactions and business metrics._
 
- _Example:_
+| Column Name     | Data Type | Description                        |
+|------------------|-----------|------------------------------------|
+| Order ID         | TEXT      | Unique identifier for each order   |
+| Order Date       | DATE      | Date when order was placed         |
+| Ship Date        | DATE      | Shipping date                      |
+| Product ID       | TEXT      | Product code                       |
+| Product Name     | TEXT      | Name of the product                |
+| Category         | TEXT      | Main product category              |
+| Sub-Category     | TEXT      | Detailed product category          |
+| Sales            | FLOAT     | Sales amount                       |
+| Profit           | FLOAT     | Profit earned                      |
+| Quantity         | INT       | Number of items sold               |
+| Segment          | TEXT      | Customer segment (e.g. Consumer)   |
+| Region           | TEXT      | Sales region                       |
+| Market           | TEXT      | Geographical market zone           |
+| Ship Mode        | TEXT      | Shipping type                      |
+| State / Country  | TEXT      | Geolocation                        |
+| Returns.Returned | BOOLEAN   | Indicates if order was returned    |
 
-| Column Name | Data Type | Description |  
-|-------------|----------|-------------|  
-| Product_ID  | INT      | Unique identifier for each product |  
-| Name        | TEXT     | Product name |  
-| Category    | TEXT     | Product category |  
-| Price       | FLOAT    | Price per unit |  
-
-
-
-Table 2: Sales Transactions  
-
-👉🏻 Insert a screenshot of table schema 
-
-
- _Example:_
-
-| Column Name    | Data Type | Description |  
-|---------------|----------|-------------|  
-| Transaction_ID | INT      | Unique identifier for each sale |  
-| Product_ID     | INT      | Foreign key linking to Products table |  
-| Quantity       | INT      | Number of items sold |  
-| Sale_Date      | DATE     | Date of transaction |  
+</details>
 
 
-📌If the table is too big, only capture a part of it that contains key metrics you used in the projects or put the table in toggle
+
+<details>
+<summary><strong>♻️ Returns Table</strong></summary>
+
+_This table flags which orders were returned._
+
+| Column Name | Data Type | Description                         |
+|-------------|-----------|-------------------------------------|
+| Order ID    | TEXT      | Linked Order ID from Orders table   |
+| Returned    | BOOLEAN   | Return status                       |
+
+</details>
+
+
+
+<details>
+<summary><strong>👤 People Table</strong></summary>
+
+_Contains sales representative details per region._
+
+| Column Name | Data Type | Description                    |
+|-------------|-----------|--------------------------------|
+| Person      | TEXT      | Sales rep name                 |
+| Region      | TEXT      | Sales region assigned          |
+
+</details>
 
 #### 3️⃣ Data Relationships:  
 Describe the connections between tables—e.g., one-to-many, many-to-many.  
