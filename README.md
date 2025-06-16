@@ -172,7 +172,7 @@ Developed a multi-page interactive dashboard in Power BI with filters and KPIs, 
 
 Each page answers specific stakeholder questions:
 
-- **Page 1 –** **Business Overview:** Financial health, sales trends, profit by segment.
+- **Page 1 –** **Business Overview:** Financial health, sales trends, profit by different dimensions.
 
 - **Page 2 –** **Product & Market Insights:** Top/bottom products, profitable countries, product-level profit margin.
 
