@@ -192,8 +192,15 @@ Each page answers specific stakeholder questions:
 To understand overall business health, I started with an executive-level view of key metrics including:  
 💰 **Total Profit:** $1.5M 📦 **Total Sales:** $12.64M 📄 **Total Orders:** 25.04K 📈 **% Profit:** 11.61% 📦 **% Return Rate:** 5.95%
 
+From the visualizations, I observed the following:
 
 #### 🔍 1. Sales Performance Is Strong, but Margins Are Modest  
+- **💡 Observation:**
+Total **sales** reached **$12.64M**, but only **$1.5M in profit** was generated, resulting in a **profit margin of 11.61%**. This shows that high sales volume does not directly translate into high profitability, possibly due to cost structure or product mix.
+
+- **✅ Recommendation:**
+Prioritize margin optimization by identifying high-volume but low-profit products. Review pricing strategies, reduce discount dependency, and streamline costs to protect profitability without sacrificing sales volume.
+
 
 ### 2️⃣ Dashboard 2 Preview  
 
