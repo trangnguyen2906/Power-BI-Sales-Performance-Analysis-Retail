@@ -13,40 +13,39 @@
 
 ### Objective:
 ### 📖 What is this project about? 
- 
-- Provide a brief introduction to the project. Define the problem statement and why it is important.
-- Write in bullet point format
 
- _Example:_
- 
- This project analyzes sales trends and inventory control using SQL and Power BI. The objective is
- - optimize stock levels & improve demand forecasting
- - reduce costs.  
+This project analyzes global retail sales using the **Global Superstore** dataset and **Power BI**. It is designed to help senior managers:
 
-### 👤 Who is this project for?  
+- Understand **sales and profit performance** across regions and products.
 
-Mention who might benefit from this project 
+- Identify **strategic opportunities** and **loss drivers**.
 
- _Example:_
+- Make data-informed decisions on **product prioritization and market expansion.**
 
-✔️ Data analysts & business analysts  
-✔️ Supply chain managers & inventory controllers  
-✔️ Decision-makers & stakeholders  
+### 👥 Who is this project for?
 
-###  ❓Business Questions:  
-Clearly outline what the business questions project will solve.  
+- Business stakeholders and senior managers  
+- Sales & marketing strategy teams  
+- Data analysts and business intelligence professionals  
 
- _Example:_
 
-✔️ Identify high-demand products and sales trends.  
-✔️ Optimize inventory levels to prevent overstocking or stockouts.  
-✔️ Provide actionable insights through Power BI dashboards.  
+### ❓ Business Questions
+This project helps answer key business questions, such as:
 
-### 🎯Project Outcome:  
-Summarize key findings and insights/ trends/ themes in a concise, bullet-point 
-format.  
+- Which regions and markets are most/least profitable?
 
- _Example:_
+- What product categories and sub-categories drive sales and returns?
+
+- Which customer segments yield the highest profit?
+
+- What factors are contributing to high return rates?
+
+
+
+### 🎯 Project Outcome:
+
+Summarized below are key findings and patterns uncovered through analysis:
+
 
 ✔️ Sales Trends: The top X% of products generate Y% of revenue.  
 ✔️ Inventory Optimization: Certain products are frequently out-of-stock, causing revenue loss.  
