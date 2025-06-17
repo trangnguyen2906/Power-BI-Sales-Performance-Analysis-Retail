@@ -354,7 +354,7 @@ These categories show consistent returns, with some SKUs (especially in Furnishi
 - 🎄 **November, December** stands out with the highest weekday intensity, pointing to holiday- or year-end-driven order surges.
 
 
-### 2. 📦 Returned Orders
+### 📦 2. Returned Orders
 
 - **🔁 Return Rate Trends Over Time**
 
@@ -371,6 +371,7 @@ These categories show consistent returns, with some SKUs (especially in Furnishi
   + **Paper (6.78%)** also returns frequently, suggesting delivery or quality mismatches.
 
 - 🧾 Despite fewer orders, **Art and Labels** show **low return rates (4.55%–5.56%)**, signaling stable customer satisfaction in niche areas.
+
   
 ## 🔎 Final Conclusion & Recommendations  
 
