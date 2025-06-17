@@ -238,9 +238,33 @@ Sustain growth in APAC, Europe, and the US through focused operations and optimi
 ### 2️⃣ Dashboard 2 Preview  
 
 
-📌 Analysis 2:   
-- Observation: _Describe trends, key metrics, and patterns._  
-- Recommendation: _Suggest actions based on insights._  
+### 📌 Analysis 2:   
+  
+### 🔍 **Technology – High Revenue Driver with Uneven Product & Market Outcomes**
+- Technology is the **top-performing category**, generating **$4.74M in revenue** and contributing **$663.8K in profit**, with a solid **margin of 13.99%**. However, this strong overall performance masks wide **variation** between **sub-categories and regions**.
+
+- The top sub-categories include:
+
++ 📠 Copiers: $258.6K profit, 17.13% margin
++ 🧩 Accessories: $129.2K profit, 17.3% margin
++ 📱 Phones: $216.7K profit, 12.7% margin
+
+These high-margin products drive most of the category’s success and are particularly strong in regions like **Central EU, North Asia, and the US.**
+
+- ⚠️ However, **Machines** remain a weak spot, with the **lowest margin (7.56%)**. Many low-performing SKUs (e.g., Zebra, Lexmark, Okidata) appear in the top loss-making list, especially in countries such as **Turkey, Nigeria, and the Netherlands**.
+- ⚠️ Meanwhile, Canada emerges as a margin outlier—despite its low sales volume, it delivers the **highest profit margin** of all regions, suggesting strong operational efficiency and potential for targeted expansion.
+- ❗ Losses are concentrated in Africa, EMEA, and parts of LATAM, often tied to low-efficiency Machines and Copiers.
+
+### **✅ Recommendation:**
+
+- **Expand Copiers, Accessories, and Phones** in high-performing regions such as **Central EU, North Asia, and the US**, where both volume and margin potential are proven.
+
+- **Conduct a SKU-level audit** of the Machines sub-category, especially in underperforming countries like Turkey, Nigeria, and the Netherlands. Prioritize phasing out or rebranding low-efficiency products.
+
+- **Leverage Canada** as a high-margin testbed for premium tech offerings. Despite its small size, its operational efficiency makes it ideal for pilot campaigns or bundling strategies.
+
+- In low-performing markets like **Africa, EMEA, and parts of LATAM**, **avoid expanding Machines**, and instead introduce high-margin, low-risk products like **Accessories** through lean, targeted rollouts.
+
 
 ### 3️⃣ Dashboard 3 Preview  
 
