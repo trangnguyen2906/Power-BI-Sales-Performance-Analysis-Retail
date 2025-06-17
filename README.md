@@ -370,8 +370,7 @@ These categories show consistent returns, with some SKUs (especially in Furnishi
   + **Fasteners (7.31%) and Appliances (7.12%)** with disproportionately high return rates.
   + **Paper (6.78%)** also returns frequently, suggesting delivery or quality mismatches.
 
-#### Low-Risk Segments
-- **Labels (5.56%)** and **Art (4.55%)** have low return rates, suggesting strong customer satisfaction and reliable fulfillment in these niche segments.
+- 🧾 Despite fewer orders, **Art and Labels** show **low return rates (4.55%–5.56%)**, signaling stable customer satisfaction in niche areas.
   
 ## 🔎 Final Conclusion & Recommendations  
 
