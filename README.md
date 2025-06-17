@@ -303,6 +303,9 @@ However, attention is needed for:
 - **Investigate high-return SKUs** in **Fasteners** and **Supplies** to minimize leakage, particularly in underperforming markets like **Turkey** and **Nigeria**.
 - **Pilot lightweight bundles** in **Canada** and under-tapped LATAM areas to test margin potential using top-performing SKUs.
 
+### 🔍 **3. Office Supplies – Consistent Performer with Broad Base**
+
+
 ### 3️⃣ Dashboard 3 Preview  
 
 
