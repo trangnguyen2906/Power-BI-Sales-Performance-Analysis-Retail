@@ -288,7 +288,6 @@ However, attention is needed for:
 
 - 🔧 **Fasteners** and **Supplies**: While positive, they lag behind in margin (13.85% and 9.29%) and exhibit higher return rates (7.31% and 5.86%).
 
----
 
 ### 🌍 Regional Performance
 
@@ -297,9 +296,7 @@ However, attention is needed for:
 - ⚠️ **Turkey, Nigeria, and Netherlands** are consistently present in the **bottom loss-making countries**, reflecting weak SKU performance and high return rates.
 - 📈 **Canada**, despite low volume, again shows favorable profit margins and should be considered for lean growth pilots.
 
----
-
-### ✅ Strategic Recommendations
+### ✅ Recommendations
 
 - **Prioritize Paper, Envelopes, Art, and Appliances** for strategic investment and promotion, especially in mature markets like the **US** and **Central EU**.
 - **Explore pricing optimization and bundling** for niche segments like **Labels**, which exhibit strong margins despite fewer orders.
