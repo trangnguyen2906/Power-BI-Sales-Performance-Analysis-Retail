@@ -334,7 +334,9 @@ These categories show consistent returns, with some SKUs (especially in Furnishi
 - Launch **lightweight test pilots in Canada** to validate high-margin, low-cost Furniture deployment.  
 - In **loss-heavy markets** like Turkey and Nigeria, avoid low-margin Tables and explore alternatives like Chairs or modular accessories with better profitability.
   
-### 3️⃣ Dashboard 3 Preview  
+### 3️⃣  Customer Patterns & Risks - Preview 
+
+![Customer Behavior Dashboard](https://drive.google.com/uc?export=view&id=1j5e-fbOtPHRYLDvvv54i4b020bJPoMIz)
 
 
 📌 Analysis 3:  
