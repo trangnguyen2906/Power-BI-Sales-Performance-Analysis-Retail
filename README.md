@@ -235,7 +235,9 @@ Reinforce engagement with Home Office customers through premium or recurring off
 Sustain growth in APAC, Europe, and the US through focused operations and optimization. For emerging markets such as LATAM and Africa, refer to margin data from Page 2 to identify where lean expansion or pilot initiatives may yield strategic growth.
 
 
-### 2️⃣ Dashboard 2 Preview  
+### 2️⃣ Strategic Product & Market Insights - Preview  
+
+![Technology Region Profit Margin](https://drive.google.com/uc?export=view&id=1KEXVnHP2fSkRdtrnt3_eozf3O31Pv2Ab)
 
 
 ### 📌 Analysis 2:   
@@ -245,14 +247,14 @@ Sustain growth in APAC, Europe, and the US through focused operations and optimi
 
 - The top sub-categories include:
 
-+ 📠 Copiers: $258.6K profit, 17.13% margin
-+ 🧩 Accessories: $129.2K profit, 17.3% margin
-+ 📱 Phones: $216.7K profit, 12.7% margin
++ **📠 Copiers:** $258.6K profit, 17.13% margin
++ **🧩 Accessories:** $129.2K profit, 17.3% margin
++ **📱 Phones:** $216.7K profit, 12.7% margin
 
 These high-margin products drive most of the category’s success and are particularly strong in regions like **Central EU, North Asia, and the US.**
 
 - ⚠️ However, **Machines** remain a weak spot, with the **lowest margin (7.56%)**. Many low-performing SKUs (e.g., Zebra, Lexmark, Okidata) appear in the top loss-making list, especially in countries such as **Turkey, Nigeria, and the Netherlands**.
-- ⚠️ Meanwhile, Canada emerges as a margin outlier—despite its low sales volume, it delivers the **highest profit margin** of all regions, suggesting strong operational efficiency and potential for targeted expansion.
+- ⚠️ Meanwhile, Canada emerges as a margin outlier,despite its low sales volume, it delivers the **highest profit margin** of all regions, suggesting strong operational efficiency and potential for targeted expansion.
 - ❗ Losses are concentrated in Africa, EMEA, and parts of LATAM, often tied to low-efficiency Machines and Copiers.
 
 ### **✅ Recommendation:**
