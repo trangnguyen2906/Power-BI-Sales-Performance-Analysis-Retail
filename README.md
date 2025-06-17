@@ -266,7 +266,45 @@ These high-margin products drive most of the category’s success and are partic
 - **Leverage Canada** as a high-margin testbed for premium tech offerings. Despite its small size, its operational efficiency makes it ideal for pilot campaigns or bundling strategies.
 
 - In low-performing markets like **Africa, EMEA, and parts of LATAM**, **avoid expanding Machines**, and instead introduce high-margin, low-risk products like **Accessories** through lean, targeted rollouts.
+  
+### 🔍 **2. Office Supplies – Consistent Performer with Broad Base**
+- Office Supplies is a **strong, consistent contributor with $3.79M in sales** and **$518.5K in total profit**, maintaining a healthy **13.69% profit margin**. Its strength lies in a **balanced portfolio of sub-categories**, driven by **broad customer demand and high product variety.**
+The **top-performing sub-categories** by margin and scale include:
 
+- 📄 **Paper**: $59.2K profit | 24.24% margin  
+- ✉️ **Envelopes**: $29.6K profit | 17.32% margin  
+- 🖌️ **Art**: $57.9K profit | 15.58% margin  
+- 📘 **Binders**: $72.4K profit | 15.68% margin  
+- ⚡ **Appliances**: $141.7K profit | 14.01% margin  
+
+These sub-categories show **strong margin-to-volume efficiency**, and products like paper and binders see **high order counts** (e.g., Binders: 5,392 orders).
+
+Meanwhile, categories like:
+
+- 🏷️ **Labels** (20.45% margin) show high profitability **despite lower volume** (2,460 orders), indicating untapped premium product potential.
+- 📦 **Storage** drives the second-highest profit ($108.4K) with respectable margins (9.62%), highlighting operational reliability.
+
+However, attention is needed for:
+
+- 🔧 **Fasteners** and **Supplies**: While positive, they lag behind in margin (13.85% and 9.29%) and exhibit higher return rates (7.31% and 5.86%).
+
+---
+
+### 🌍 Regional Performance
+
+- 🏆 **Central EU** leads with the highest profit among all regions for Office Supplies, making it a strategic priority for expansion.
+- 🇺🇸 **United States** contributes the largest absolute profit ($100K+), indicating scale advantages.
+- ⚠️ **Turkey, Nigeria, and Netherlands** are consistently present in the **bottom loss-making countries**, reflecting weak SKU performance and high return rates.
+- 📈 **Canada**, despite low volume, again shows favorable profit margins and should be considered for lean growth pilots.
+
+---
+
+### ✅ Strategic Recommendations
+
+- **Prioritize Paper, Envelopes, Art, and Appliances** for strategic investment and promotion, especially in mature markets like the **US** and **Central EU**.
+- **Explore pricing optimization and bundling** for niche segments like **Labels**, which exhibit strong margins despite fewer orders.
+- **Investigate high-return SKUs** in **Fasteners** and **Supplies** to minimize leakage, particularly in underperforming markets like **Turkey** and **Nigeria**.
+- **Pilot lightweight bundles** in **Canada** and under-tapped LATAM areas to test margin potential using top-performing SKUs.
 
 ### 3️⃣ Dashboard 3 Preview  
 
