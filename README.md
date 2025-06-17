@@ -375,9 +375,19 @@ These categories show consistent returns, with some SKUs (especially in Furnishi
   
 ## 🔎 Final Conclusion & Recommendations  
 
-👉🏻 Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following:  
+### 📌 Key Takeaways
 
-📌 Key Takeaways:  
-✔️ Recommendation 1  
-✔️ Recommendation 2  
-✔️ Recommendation 3
+- 🧠 **Prioritize High-Margin, High-Volume Products**  
+  Double down on **Technology** (📠 Copiers, 📱 Phones), **Office Supplies** (📄 Paper, 🖌️ Art), and **Furniture** (💺 Chairs, 📚 Bookcases) in proven markets like **Central EU, North Asia**, and **the US**.
+
+- ⚠️ **Address Product Inefficiencies**  
+  Conduct SKU-level reviews of loss-making items — especially in **Furniture–Tables** and **Tech–Machines**. Either phase out, rebrand, or redesign low-margin SKUs.
+
+- 🌐 **Expand in Strategic, Lean Markets**  
+  Scale into **Canada** and under-tapped LATAM zones with **bundled high-margin SKUs**, where low volume meets high profitability.
+
+- 🔁 **Tackle High Return Categories Proactively**  
+  Refine logistics and customer expectations for products with high return rates (e.g., ⚡ Appliances, 📎 Fasteners, 🛋️ Tables) to minimize costly reverse logistics.
+
+- 📦 **Strengthen Niche and Low-Risk Segments**  
+  Invest in categories with **low return volatility** like **Labels** and **Art**, which offer stable growth without heavy operational risks.
