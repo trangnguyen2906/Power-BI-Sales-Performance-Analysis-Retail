@@ -242,7 +242,7 @@ Sustain growth in APAC, Europe, and the US through focused operations and optimi
 
 ### 📌 Analysis 2:   
   
-### 🔍 **Technology – High Revenue Driver with Uneven Product & Market Outcomes**
+### 🔍 **1. Technology – High Revenue Driver with Uneven Product & Market Outcomes**
 - Technology is the **top-performing category**, generating **$4.74M in revenue** and contributing **$663.8K in profit**, with a solid **margin of 13.99%**. However, this strong overall performance masks wide **variation** between **sub-categories and regions**.
 
 - The top sub-categories include:
