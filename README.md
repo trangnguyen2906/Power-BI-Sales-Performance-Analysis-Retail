@@ -353,27 +353,22 @@ These categories show consistent returns, with some SKUs (especially in Furnishi
 
 - 🎄 **November, December** stands out with the highest weekday intensity, pointing to holiday- or year-end-driven order surges.
 
+
+### 2. 📦 Returned Orders
+
 - **🔁 Return Rate Trends Over Time**
 
   + Return rates show seasonal fluctuation, **peaking at 8.03% in Q3 2012**, with recurring spikes around Q3 each year.
   + These spikes suggest **post-promotional return behavior** or **volume-induced dissatisfaction**, commonly seen after major sales periods.
+    
+- 🛋️ **Furniture** has the **highest return rate (6.46%)**, with **Tables (7.78%) and Chairs (6.49%)** being top contributors in both volume and value of returns. This may point to mismatch in customer expectations or size/fit issues.
 
-### 2. 📦 Returned Orders
+- 💻 In **Technology, Accessories (7.12%) and Copiers (6.07%)** show moderate return rates, with Phones and Machines slightly below average. Accessories' high return value ($53.5K) signals costly inefficiencies.
 
-- **🛋️ Product Category Insights**
-  + Furniture (Highest Return Rate: **6.46%**)
-      + **Tables (7.78%)** and **Chairs (6.49%)** lead in both return volume and value.
-      + Likely driven by **mismatch in expectations**, product size issues, or inadequate pre-purchase information.
+- 🗃️ Office Supplies category has a lower-than-average return rate (5.72%), but key problem areas include:
 
-  + Technology (Return Rate: **6.15%**)
-      + **Accessories (7.12%)** are the most returned tech item with over **$53.5K in return value**, indicating **costly inefficiencies**.
-      + **Copiers (6.07%)** also show moderate returns; **Phones** and **Machines** perform slightly better with lower return rates (~5.9% and 4.85%).
-
-  + Office Supplies (Return Rate: **5.72%**): Generally stable, but specific sub-categories underperform:
-      - **Fasteners (7.31%)**
-      - **Appliances (7.12%)**
-      - **Paper (6.78%)**  
-  These suggest issues in durability, product expectations, or delivery quality.
+  + **Fasteners (7.31%) and Appliances (7.12%)** with disproportionately high return rates.
+  + **Paper (6.78%)** also returns frequently, suggesting delivery or quality mismatches.
 
 #### Low-Risk Segments
 - **Labels (5.56%)** and **Art (4.55%)** have low return rates, suggesting strong customer satisfaction and reliable fulfillment in these niche segments.
