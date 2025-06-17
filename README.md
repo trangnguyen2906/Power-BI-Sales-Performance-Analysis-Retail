@@ -213,7 +213,7 @@ Mitigate Q1 drops by launching retention-focused campaigns early in the year, of
 ### 🔍 3. Sub-Category Profitability Varies Widely
 - **💡 Observation:**
  + **Technology** is the top-performing category: 📠 **Copiers** and 📱 **Phones** show strong sales and high profits, while **Accessories** also perform well.
- + **Office Supplies** has the **highest margin sub-category** — 📎 **Paper (24.24%)**, but most others (e.g., Binders, Envelopes) contribute low profit due to small sales.
+ + **Office Supplies** has the **highest margin sub-category** , 📎 **Paper (24.24%)**, but most others (e.g., Binders, Envelopes) contribute low profit due to small sales.
  + **Furniture** underperforms overall: 🪑 Tables have a **negative margin (-8.46%)**, and while 📚 **Bookcases** and **Chairs** generate decent sales, their margins **(11–12%) are below other categories.**
 
 - **✅ Recommendation:**
