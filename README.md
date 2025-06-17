@@ -358,22 +358,21 @@ These categories show consistent returns, with some SKUs (especially in Furnishi
   + Return rates show seasonal fluctuation, **peaking at 8.03% in Q3 2012**, with recurring spikes around Q3 each year.
   + These spikes suggest **post-promotional return behavior** or **volume-induced dissatisfaction**, commonly seen after major sales periods.
 
-### 📦 Returned Orders
+### 2. 📦 Returned Orders
 
 - **🛋️ Product Category Insights**
   + Furniture (Highest Return Rate: **6.46%**)
       + **Tables (7.78%)** and **Chairs (6.49%)** lead in both return volume and value.
       + Likely driven by **mismatch in expectations**, product size issues, or inadequate pre-purchase information.
 
-Technology (Return Rate: **6.15%**)
-- **Accessories (7.12%)** are the most returned tech item with over **$53.5K in return value**, indicating **costly inefficiencies**.
-- **Copiers (6.07%)** also show moderate returns; **Phones** and **Machines** perform slightly better with lower return rates (~5.9% and 4.85%).
+  + Technology (Return Rate: **6.15%**)
+      + **Accessories (7.12%)** are the most returned tech item with over **$53.5K in return value**, indicating **costly inefficiencies**.
+      + **Copiers (6.07%)** also show moderate returns; **Phones** and **Machines** perform slightly better with lower return rates (~5.9% and 4.85%).
 
- Office Supplies (Return Rate: **5.72%**)
-- Generally stable, but specific sub-categories underperform:
-  - **Fasteners (7.31%)**
-  - **Appliances (7.12%)**
-  - **Paper (6.78%)**  
+  + Office Supplies (Return Rate: **5.72%**): Generally stable, but specific sub-categories underperform:
+      - **Fasteners (7.31%)**
+      - **Appliances (7.12%)**
+      - **Paper (6.78%)**  
   These suggest issues in durability, product expectations, or delivery quality.
 
 #### Low-Risk Segments
