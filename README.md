@@ -292,7 +292,7 @@ However, attention is needed for:
 ### 🌍 Regional Performance
 
 - 🏆 **Central EU** leads with the highest profit among all regions for Office Supplies, making it a strategic priority for expansion.
-- 🇺🇸 **United States** contributes the largest absolute profit ($100K+), indicating scale advantages.
+- **United States** contributes the largest absolute profit ($100K+), indicating scale advantages.
 - ⚠️ **Turkey, Nigeria, and Netherlands** are consistently present in the **bottom loss-making countries**, reflecting weak SKU performance and high return rates.
 - 📈 **Canada**, despite low volume, again shows favorable profit margins and should be considered for lean growth pilots.
 
@@ -321,8 +321,8 @@ These categories show consistent returns, with some SKUs (especially in Furnishi
 ### 🌍 Regional Performance
 
 - 💰 **Central Asia** and **North Asia** lead in Furniture profit, making them strategic priorities for regional growth.  
-- 🇨🇳 **China** and 🇮🇳 **India** are top profit-contributing countries, reinforcing Asia’s role as a high-return market.  
-- 🇺🇸 **United States** delivers high order volumes but lower profit, hinting at possible SKU mix or cost structure challenges.  
+- **China** and **India** are top profit-contributing countries, reinforcing Asia’s role as a high-return market.  
+- **United States** delivers high order volumes but lower profit, hinting at possible SKU mix or cost structure challenges.  
 - ❌ **Turkey**, **Nigeria**, and **Netherlands** consistently rank among the **bottom loss-making countries**, heavily impacted by underperforming Tables.  
 - 📌 **Canada**, though small in volume, records the **highest margin region-wide**, making it an ideal candidate for lean-market pilots or premium bundling.
 
