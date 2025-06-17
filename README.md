@@ -339,11 +339,20 @@ These categories show consistent returns, with some SKUs (especially in Furnishi
 ![Customer Behavior Dashboard](https://drive.google.com/uc?export=view&id=1j5e-fbOtPHRYLDvvv54i4b020bJPoMIz)
 
 
-📌 Analysis 3:  
-- Observation: _Describe trends, key metrics, and patterns._  
-- Recommendation: _Suggest actions based on insights._  
+### 📌 Analysis 3:  
+### 🧠 1. Behavioral Patterns (Segment × Ship Mode + Weekday Trends)
+- Across **25,040 total orders**, customers maintain a healthy **AOV of $504.99**, a **profit margin of 11.61%**, and a relatively **low return rate of 5.95%.**
 
----
+- The **Consumer segment** is the dominant driver of volume, showing strong preference for **Standard Class**, followed by **Second Class** and **First Class**. **Same Day shipping** remains **minimal**.
+
+- **Corporate customers** mostly choose **Second** and **Standard** Class, while the **Home Office** segment uses **all ship modes** more evenly, though with lower overall volume.
+
+- 📅 **Wednesday** and **Friday** are the **most active** order days, especially in **Q3 and Q4**, likely tied to sales pushes or operational cycles.
+
+- 💤 **Weekends (Sat–Sun)** consistently show **low order activity**, reinforcing the pattern of weekday-heavy, business-driven purchasing.
+
+- 🎄 **November, December** stands out with the highest weekday intensity, pointing to holiday- or year-end-driven order surges.
+
 
 ## 🔎 Final Conclusion & Recommendations  
 
