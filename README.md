@@ -261,7 +261,7 @@ These high-margin products drive most of the category’s success and are partic
 
 - **Expand Copiers, Accessories, and Phones** in high-performing regions such as **Central EU, North Asia, and the US**, where both volume and margin potential are proven.
 
-- **Conduct a SKU-level audit** of the Machines sub-category, especially in underperforming countries like Turkey, Nigeria, and the Netherlands. Prioritize phasing out or rebranding low-efficiency products.
+- **Conduct a SKU-level audit** of the **Machines sub-category**, especially in underperforming countries like Turkey, Nigeria, and the Netherlands. Prioritize phasing out or rebranding low-efficiency products.
 
 - **Leverage Canada** as a high-margin testbed for premium tech offerings. Despite its small size, its operational efficiency makes it ideal for pilot campaigns or bundling strategies.
 
