@@ -303,9 +303,37 @@ However, attention is needed for:
 - **Investigate high-return SKUs** in **Fasteners** and **Supplies** to minimize leakage, particularly in underperforming markets like **Turkey** and **Nigeria**.
 - **Pilot lightweight bundles** in **Canada** and under-tapped LATAM areas to test margin potential using top-performing SKUs.
 
-### 🔍 **3. Office Supplies – Consistent Performer with Broad Base**
+### 🔍 **3. Furniture – High Revenue, Low Margin with Clear Risk Zones**
+
+Furniture delivers a sizable **$4.11M in sales** but only contributes **$285.2K in total profit**, resulting in a relatively low **6.94% profit margin**. Despite strong revenue, profitability is uneven across sub-categories and markets.
+
+Top-performing sub-categories include:
+
+- 💺 **Chairs**: $140.4K profit | **9.35% margin**  
+- 🛋 **Furnishings**: $46.9K profit | **12.18% margin**  
+- 📚 **Bookcases**: $161.9K profit | **11.04% margin**
+
+These categories show consistent returns, with some SKUs (especially in Furnishings and Bookcases) achieving margins above **40%**, even at moderate order volumes — suggesting potential in specialized or premium lines.
+
+⚠️ However, **Tables** emerge as a major weakness, posting **–$64K in losses** and a **negative margin of –8.46%**. Numerous SKUs fall below –50% profit margin, with some as extreme as –230% (e.g., Chromcraft, Lesro, Barricks), indicating cost inefficiencies, pricing issues, or low product-market fit.
 
 
+### 🌍 Regional Performance
+
+- 💰 **Central Asia** and **North Asia** lead in Furniture profit, making them strategic priorities for regional growth.  
+- 🇨🇳 **China** and 🇮🇳 **India** are top profit-contributing countries, reinforcing Asia’s role as a high-return market.  
+- 🇺🇸 **United States** delivers high order volumes but lower profit, hinting at possible SKU mix or cost structure challenges.  
+- ❌ **Turkey**, **Nigeria**, and **Netherlands** consistently rank among the **bottom loss-making countries**, heavily impacted by underperforming Tables.  
+- 📌 **Canada**, though small in volume, records the **highest margin region-wide**, making it an ideal candidate for lean-market pilots or premium bundling.
+
+### ✅ Recommendations
+
+- Prioritize **Chairs, Furnishings, and Bookcases** for strategic scaling, especially those with margins >25%, through bundling, B2B offerings, or premium positioning.  
+- Audit and **restructure the Tables sub-category**, eliminating persistently negative SKUs and reassessing cost-to-revenue ratios.  
+- Focus expansion efforts on **Central Asia and North Asia**, where both demand and margins align.  
+- Launch **lightweight test pilots in Canada** to validate high-margin, low-cost Furniture deployment.  
+- In **loss-heavy markets** like Turkey and Nigeria, avoid low-margin Tables and explore alternatives like Chairs or modular accessories with better profitability.
+  
 ### 3️⃣ Dashboard 3 Preview  
 
 
