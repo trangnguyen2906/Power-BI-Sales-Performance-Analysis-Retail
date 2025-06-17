@@ -1,5 +1,7 @@
 # 📊 Analyze Sales Performance on Superstore Dataset Using Power BI
 
+![Dashboard Banner](https://drive.google.com/uc?export=view&id=1XlorL1Mom_l3cC6tD9YbLq0u-Bo-L-9u)
+
 ## 📑 Table of Contents  
 1. [📌 Background & Overview](#-background--overview)  
 2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)  
