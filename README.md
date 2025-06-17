@@ -361,16 +361,15 @@ These categories show consistent returns, with some SKUs (especially in Furnishi
 ### 📦 Returned Orders
 
 - **🛋️ Product Category Insights**
+  + Furniture (Highest Return Rate: **6.46%**)
+      + **Tables (7.78%)** and **Chairs (6.49%)** lead in both return volume and value.
+      + Likely driven by **mismatch in expectations**, product size issues, or inadequate pre-purchase information.
 
-#### Furniture (Highest Return Rate: **6.46%**)
-- **Tables (7.78%)** and **Chairs (6.49%)** lead in both return volume and value.
-- Likely driven by **mismatch in expectations**, product size issues, or inadequate pre-purchase information.
-
-#### Technology (Return Rate: **6.15%**)
+Technology (Return Rate: **6.15%**)
 - **Accessories (7.12%)** are the most returned tech item with over **$53.5K in return value**, indicating **costly inefficiencies**.
 - **Copiers (6.07%)** also show moderate returns; **Phones** and **Machines** perform slightly better with lower return rates (~5.9% and 4.85%).
 
-#### Office Supplies (Return Rate: **5.72%**)
+ Office Supplies (Return Rate: **5.72%**)
 - Generally stable, but specific sub-categories underperform:
   - **Fasteners (7.31%)**
   - **Appliances (7.12%)**
