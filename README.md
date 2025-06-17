@@ -185,7 +185,7 @@ Each page answers specific stakeholder questions:
 
 ### 1️⃣ Page 1: Business Performance Overview - Preview  
 
-![Page 1](https://drive.google.com/uc?export=view&id=1QEGmvNWgRN2YPpMON9bDsYdLTvL-y6_L)
+![Dashboard Walkthrough](https://drive.google.com/uc?export=view&id=1HyZkhunpnyqoVN_bR2zvdNqDOZjFgouG)
 
 ### 📌 Analysis 1:  
 
